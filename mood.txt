@@ -3,3 +3,5 @@ Primoz feels sad today.
  Mood Score: 4
 16/05/2026: Bojan feels sad today.
  Mood Score: 1
+16.05.2026: Primoz feels happy today.
+ Mood Score: 80
